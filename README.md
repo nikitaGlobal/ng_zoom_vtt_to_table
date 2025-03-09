@@ -1,6 +1,6 @@
 # Transcribe Zoom
 
-This project converts Zoom transcripts to HTML or Markdown tables.
+This class converts Zoom transcripts to HTML or Markdown tables.
 
 ## Author
 
