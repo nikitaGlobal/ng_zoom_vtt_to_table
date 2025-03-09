@@ -183,5 +183,5 @@ class Transcribe_Zoom {
 /**
  * Usage examples.
  */
-// $transcribe = new Transcribe_zoom();
+// $transcribe = new Transcribe_Zoom();
 // $transcribe->get_chunks()->format_chunks()->make_segments()->make_table()->echo();
