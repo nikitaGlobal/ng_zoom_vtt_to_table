@@ -180,8 +180,3 @@ class Transcribe_Zoom {
 		echo $this->table;
 	}
 }
-/**
- * Usage examples.
- */
-// $transcribe = new Transcribe_Zoom();
-// $transcribe->get_chunks()->format_chunks()->make_segments()->make_table()->echo();

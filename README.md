@@ -58,10 +58,12 @@ $transcribe->get_chunks()->format_chunks()->make_segments()->make_table()->echo(
 // Process the file and generate a Markdown table
 $transcribe->get_chunks()->format_chunks()->make_segments()->make_md()->echo();
 ```
+Also check app.php which can be applicable to console use.
 
 ## File Structure
 
 - `transcribe_zoom.php`: Contains the Transcribe_Zoom class.
+- `app.php` : Console client.
 - `README.md`: This file.
 
 ## Requirements
